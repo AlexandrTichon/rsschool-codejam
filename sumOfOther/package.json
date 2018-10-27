@@ -1,8 +1,8 @@
 {
   "name": "rsschool-codejam",
   "version": "1.0.0",
-  "description": "\"Sum\"",
-  "main": "test.js",
+  "description": "\"sumOfOther\"",
+  "main": "sumOfOther.js",
   "scripts": {
     "test": "mocha"
   },
@@ -10,15 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/AlexandrTichon/rsschool-codejam.git"
   },
-  "author": "https://github.com/AlexandrTichon/rsschool-codejam.git",
+  "author": "AlexandrTichon",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AlexandrTichon/rsschool-codejam/issues"
   },
   "homepage": "https://github.com/AlexandrTichon/rsschool-codejam#readme",
-  "dependencies": {},
   "devDependencies": {
     "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
     "mocha": "^5.2.0"
   }
 }
