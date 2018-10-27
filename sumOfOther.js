@@ -11,5 +11,5 @@ module.exports  = function sumOfOther(stdArray){
         answer[i] = elemSum;
     }
     
-    return 
+    return answer;
 }
