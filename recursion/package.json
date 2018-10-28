@@ -1,0 +1,23 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "\"tree –> array recursion function\"",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandrTichon/rsschool-codejam.git"
+  },
+  "author": "AlexandrTichon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandrTichon/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/AlexandrTichon/rsschool-codejam#readme",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "mocha": "^5.2.0"
+  }
+}
